@@ -1,1 +1,6 @@
 homework2/classification_data
+homework3/classification_data
+homework3/road_data
+logs
+*.pyc
+*.zip

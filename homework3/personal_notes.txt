@@ -1,0 +1,4 @@
+# Classification Problem
+
+Without Batch Normalization and Residual -> Epoch 10 / 10: train_acc=0.9680 val_acc=0.8656
+With Batch Normalization and Residual -> better than above !
